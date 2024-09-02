@@ -1,0 +1,1 @@
+- To test, run `kubectl apply -f hello-world.yaml`
